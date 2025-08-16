@@ -49,7 +49,9 @@ Instead of Zork's traditional syntax, you can use natural language:
 
 - **`zork_github_nlp.py`**: Main game interface that manages the Zork process and handles input/output
 - **`zork_nlp_system_9.py`**: Core NLP parser implementing the enhanced natural language processing system
-
+- **`PanakJ Final Report.pdf`**: A written report that summarizes the entire project.
+- **`Presentation.pdf`**: Slides for the project video presentation
+  
 ## Technical Details
 
 The NLP system uses:
